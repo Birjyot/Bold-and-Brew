@@ -1,0 +1,15 @@
+/* Layout.css */
+
+
+.layout-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+  margin-top: 110px; /* 34px banner + ~76px header */
+  flex: 1;
+  z-index: 1;
+  position: relative;
+}
